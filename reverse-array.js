@@ -1,3 +1,4 @@
+//With a for loop, create a JavaScript code that creates a new array in reverse order.
 function reverseArray(arr) {
   let newArr = [];
   for (let i = arr.length - 1; i >= 0; i--) {
